@@ -9,8 +9,7 @@ It enables users to analyze sales performance across different regions, retailer
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](Image1.png)
----
+![Dashboard](IMAGE%201.png)
 
 ## ✨ Features
 
